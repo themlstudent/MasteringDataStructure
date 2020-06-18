@@ -1,2 +1,3 @@
-# Mastering-Data-Structure
-All About Data Structure
+# Mastering Data Structure
+
+## Time Complexity:
