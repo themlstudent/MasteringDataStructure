@@ -17,5 +17,13 @@ The theta notation bounds a functions from above and below, so it defines exact 
 A simple way to get Theta notation of an expression is to drop low order terms and ignore leading constants. For example, consider the following expression.
 3n3 + 6n2 + 6000 = Θ(n3)
 Dropping lower order terms is always fine because there will always be a n0 after which Θ(n3) has higher values than Θn2) irrespective of the constants involved.
+
 For a given function g(n), we denote Θ(g(n)) is following set of functions.
+
+Θ(g(n)) = {f(n): there exist positive constants c1, c2 and n0 such 
+                 that 0 <= c1*g(n) <= f(n) <= c2*g(n) for all n >= n0}
+                 
+The above definition means, if f(n) is theta of g(n), then the value f(n) is always between c1*g(n) and c2*g(n) for large values of n (n >= n0). The definition of theta also requires that f(n) must be non-negative for values of n greater than n0.
+
+
 
