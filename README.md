@@ -11,7 +11,7 @@ Order of growth is how the time of execution depends on the length of the input.
 
 ## Asymptotic Notations-
 
-### Θ Notation: 
+### 1) Θ Notation: 
 
 The theta notation bounds a functions from above and below, so it defines exact asymptotic behavior.
 A simple way to get Theta notation of an expression is to drop low order terms and ignore leading constants. For example, consider the following expression.
@@ -25,5 +25,16 @@ For a given function g(n), we denote Θ(g(n)) is following set of functions.
                  
 The above definition means, if f(n) is theta of g(n), then the value f(n) is always between c1*g(n) and c2*g(n) for large values of n (n >= n0). The definition of theta also requires that f(n) must be non-negative for values of n greater than n0.
 
+ 2) Big O Notation: 
+ 
+ The Big O notation defines an upper bound of an algorithm, it bounds a function only from above. For example, consider the case of Insertion Sort. It takes linear time in best case and quadratic time in worst case. We can safely say that the time complexity of Insertion sort is O(n^2). Note that O(n^2) also covers linear time.
+If we use Θ notation to represent time complexity of Insertion sort, we have to use two statements for best and worst cases:
+1. The worst case time complexity of Insertion Sort is Θ(n^2).
+2. The best case time complexity of Insertion Sort is Θ(n).
 
+The Big O notation is useful when we only have upper bound on time complexity of an algorithm. Many times we easily find an upper bound by simply looking at the algorithm.
+
+O(g(n)) = { f(n): there exist positive constants c and 
+                  n0 such that 0 <= f(n) <= c*g(n) for 
+                  all n >= n0}
 
