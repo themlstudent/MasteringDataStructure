@@ -39,7 +39,9 @@ O(g(n)) = { f(n): there exist positive constants c and
                   all n >= n0}
 
 
-###  3) Ω Notation: Just as Big O notation provides an asymptotic upper bound on a function, Ω notation provides an asymptotic lower bound.
+###  3) Ω Notation: 
+
+Just as Big O notation provides an asymptotic upper bound on a function, Ω notation provides an asymptotic lower bound.
 
 Ω Notation can be useful when we have lower bound on time complexity of an algorithm. As discussed in the previous post, the best case performance of an algorithm is generally not useful, the Omega notation is the least used notation among all three.
 
