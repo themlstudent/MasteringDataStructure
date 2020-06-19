@@ -9,6 +9,8 @@ Time and space complexity depends on lots of things like hardware, operating sys
 
 Order of growth is how the time of execution depends on the length of the input.  Order of growth will help us to compute the running time with ease. We will ignore the lower order terms, since the lower order terms are relatively insignificant for large input. We use different notation to describe limiting behavior of a function.
 
+## Asymptotic Notations-
+
 ### Θ Notation: 
 
 The theta notation bounds a functions from above and below, so it defines exact asymptotic behavior.
