@@ -25,7 +25,7 @@ For a given function g(n), we denote Θ(g(n)) is following set of functions.
                  
 The above definition means, if f(n) is theta of g(n), then the value f(n) is always between c1*g(n) and c2*g(n) for large values of n (n >= n0). The definition of theta also requires that f(n) must be non-negative for values of n greater than n0.
 
- 2) Big O Notation: 
+ ### 2) Big O Notation: 
  
  The Big O notation defines an upper bound of an algorithm, it bounds a function only from above. For example, consider the case of Insertion Sort. It takes linear time in best case and quadratic time in worst case. We can safely say that the time complexity of Insertion sort is O(n^2). Note that O(n^2) also covers linear time.
 If we use Θ notation to represent time complexity of Insertion sort, we have to use two statements for best and worst cases:
@@ -38,3 +38,14 @@ O(g(n)) = { f(n): there exist positive constants c and
                   n0 such that 0 <= f(n) <= c*g(n) for 
                   all n >= n0}
 
+
+###  3) Ω Notation: Just as Big O notation provides an asymptotic upper bound on a function, Ω notation provides an asymptotic lower bound.
+
+Ω Notation can be useful when we have lower bound on time complexity of an algorithm. As discussed in the previous post, the best case performance of an algorithm is generally not useful, the Omega notation is the least used notation among all three.
+
+For a given function g(n), we denote by Ω(g(n)) the set of functions.
+
+Ω (g(n)) = {f(n): there exist positive constants c and
+                  n0 such that 0 <= c*g(n) <= f(n) for
+                  all n >= n0}.
+Let us consider the same Insertion sort example here. The time complexity of Insertion Sort can be written as Ω(n), but it is not a very useful information about insertion sort, as we are generally interested in worst case and sometimes in average case.
