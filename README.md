@@ -11,7 +11,7 @@ Order of growth is how the time of execution depends on the length of the input.
 
 ## Asymptotic Notations:-
 
-### 1) Θ Notation: 
+### 1) Θ Notation:-
 
 The theta notation bounds a functions from above and below, so it defines exact asymptotic behavior.
 A simple way to get Theta notation of an expression is to drop low order terms and ignore leading constants. For example, consider the following expression.
