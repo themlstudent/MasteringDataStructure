@@ -50,4 +50,5 @@ For a given function g(n), we denote by Ω(g(n)) the set of functions.
 Ω (g(n)) = {f(n): there exist positive constants c and
                   n0 such that 0 <= c*g(n) <= f(n) for
                   all n >= n0}.
+                  
 Let us consider the same Insertion sort example here. The time complexity of Insertion Sort can be written as Ω(n), but it is not a very useful information about insertion sort, as we are generally interested in worst case and sometimes in average case.
