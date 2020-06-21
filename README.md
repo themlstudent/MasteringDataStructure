@@ -23,16 +23,20 @@ Linear Search running time in seconds on A: 0.2 * n
 Binary Search running time in seconds on B: 1000*log(n)
 
 
-| n      | Running time on A | Running time on B |
+ n      | Running time on A | Running time on B 
+--------|------------------|-----------------
+ 10     | 2 sec             | ~ 1 h             
 
-| 10     | 2 sec             | ~ 1 h             |
+ 100    | 20 sec            | ~ 1.8 h           
 
-| 100    | 20 sec            | ~ 1.8 h           |
+ 10^6   | ~ 55.5 h          | ~ 5.5 h           
 
-| 10^6   | ~ 55.5 h          | ~ 5.5 h           |
+10^9    | ~ 6.3 years        |  ~ 8.3 h           
 
-| 10^9   | ~ 6.3 years       | ~ 8.3 h           |
-
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
 
 
 ### 1) Θ Notation:-
