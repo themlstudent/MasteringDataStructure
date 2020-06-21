@@ -80,6 +80,10 @@ Let us consider the same Insertion sort example here. The time complexity of Ins
 
 Also Known as best Case of Algorithm.
 
-To Learn  Analysis Of Algorithm on different type of loop Syntax:
+### To Learn  Analysis Of Algorithm on different type of loop Syntax:
 
 [Analysis of Loops](https://www.geeksforgeeks.org/analysis-of-algorithms-set-4-analysis-of-loops/)
+
+[Time Complexiy Analysis Video Lecture From mycodeschool](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI9HK8YPVBjElbLbI3ufctn)
+
+[Time Complexiy Analysis Video Lecture From Prateek Jain - Impetus](https://www.youtube.com/watch?v=eDNXKJRdunk)
