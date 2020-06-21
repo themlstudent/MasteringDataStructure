@@ -30,10 +30,6 @@ Binary Search running time in seconds on B: 1000*log(n)
  10^6   |   ~ 55.5 h        | ~ 5.5 h           
 10^9    |   ~ 6.3 years     |  ~ 8.3 h           
 
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
 
 
 ### 1) Θ Notation:-
@@ -50,6 +46,8 @@ For a given function g(n), we denote Θ(g(n)) is following set of functions.
                  
 The above definition means, if f(n) is theta of g(n), then the value f(n) is always between c1*g(n) and c2*g(n) for large values of n (n >= n0). The definition of theta also requires that f(n) must be non-negative for values of n greater than n0.
 
+Also Known as Average Case of Algorithm.
+
  ### 2) Big O Notation: 
  
  The Big O notation defines an upper bound of an algorithm, it bounds a function only from above. For example, consider the case of Insertion Sort. It takes linear time in best case and quadratic time in worst case. We can safely say that the time complexity of Insertion sort is O(n^2). Note that O(n^2) also covers linear time.
@@ -62,6 +60,8 @@ The Big O notation is useful when we only have upper bound on time complexity of
 O(g(n)) = { f(n): there exist positive constants c and 
                   n0 such that 0 <= f(n) <= c*g(n) for 
                   all n >= n0}
+                  
+                  Also Known as Wrost Case Of Algorithm.
 
 
 ###  3) Ω Notation:-
@@ -77,3 +77,9 @@ For a given function g(n), we denote by Ω(g(n)) the set of functions.
                   all n >= n0}.
                   
 Let us consider the same Insertion sort example here. The time complexity of Insertion Sort can be written as Ω(n), but it is not a very useful information about insertion sort, as we are generally interested in worst case and sometimes in average case.
+
+Also Known as best Case of Algorithm.
+
+To Learn  Analysis Of Algorithm on different type of loop Syntax:
+
+[Analysis of Loops](https://www.geeksforgeeks.org/analysis-of-algorithms-set-4-analysis-of-loops/)
