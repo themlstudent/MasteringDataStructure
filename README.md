@@ -64,7 +64,7 @@ O(g(n)) = { f(n): there exist positive constants c and
                   Also Known as Wrost Case Of Algorithm.
 
 
-###  3) Ω Notation:-
+###  3) Ω Notation:
 
 Just as Big O notation provides an asymptotic upper bound on a function, Ω notation provides an asymptotic lower bound.
 
