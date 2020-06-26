@@ -78,7 +78,7 @@ For a given function g(n), we denote by Ω(g(n)) the set of functions.
                   
 Let us consider the same Insertion sort example here. The time complexity of Insertion Sort can be written as Ω(n), but it is not a very useful information about insertion sort, as we are generally interested in worst case and sometimes in average case.
 
-Also Known as best Case of Algorithm.
+              Ω Notation Also Known as best Case of Algorithm.
 
 ### To Learn  Analysis Of Algorithm You can refer this -
 
