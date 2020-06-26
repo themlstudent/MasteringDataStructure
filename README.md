@@ -61,7 +61,7 @@ O(g(n)) = { f(n): there exist positive constants c and
                   n0 such that 0 <= f(n) <= c*g(n) for 
                   all n >= n0}
                   
-                  Also Known as Wrost Case Of Algorithm.
+               Big O Notation  Also Known as Wrost Case Of Algorithm.
 
 
 ###  3) Ω Notation:
