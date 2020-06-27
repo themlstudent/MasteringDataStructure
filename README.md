@@ -13,7 +13,7 @@ Order of growth is how the time of execution depends on the length of the input.
 
 Is the big idea that handles above issues in analyzing algorithms. In Asymptotic Analysis, we evaluate the performance of an algorithm in terms of input size (we don’t measure the actual running time). We calculate, how the time (or space) taken by an algorithm increases with the input size.
 
-Lets Take A example:
+Lets Take A example:-
 
 For example, let us consider the search problem (searching a given item) in a sorted array. One way to search is Linear Search (order of growth is linear) and the other way is Binary Search (order of growth is logarithmic). To understand how Asymptotic Analysis solves the above mentioned problems in analyzing algorithms, let us say we run the Linear Search on a fast computer A and Binary Search on a slow computer B and we pick the constant values for the two computers so that it tells us exactly how long it takes for the given machine to perform the search in seconds. Let’s say the constant for A is 0.2 and the constant for B is 1000 which means that A is 5000 times more powerful than B. For small values of input array size n, the fast computer may take less time. But, after a certain value of input array size, the Binary Search will definitely start taking less time compared to the Linear Search even though the Binary Search is being run on a slow machine. The reason is the order of growth of Binary Search with respect to input size is logarithmic while the order of growth of Linear Search is linear. So the machine dependent constants can always be ignored after a certain value of input size.
 Here are some running times for this example:
@@ -32,7 +32,7 @@ Binary Search running time in seconds on B: 1000*log(n)
 
 
 
-### 1) Θ Notation:-
+### 1) Θ Notation:
 
 The theta notation bounds a functions from above and below, so it defines exact asymptotic behavior.
 A simple way to get Theta notation of an expression is to drop low order terms and ignore leading constants. For example, consider the following expression.
@@ -48,7 +48,7 @@ The above definition means, if f(n) is theta of g(n), then the value f(n) is alw
 
                Θ Notation Also Known as Average Case of Algorithm.
 
- ### 2) Big O Notation:-
+ ### 2) Big O Notation:
  
  The Big O notation defines an upper bound of an algorithm, it bounds a function only from above. For example, consider the case of Insertion Sort. It takes linear time in best case and quadratic time in worst case. We can safely say that the time complexity of Insertion sort is O(n^2). Note that O(n^2) also covers linear time.
 If we use Θ notation to represent time complexity of Insertion sort, we have to use two statements for best and worst cases:
