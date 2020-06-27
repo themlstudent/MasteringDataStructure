@@ -48,7 +48,7 @@ The above definition means, if f(n) is theta of g(n), then the value f(n) is alw
 
                Θ Notation Also Known as Average Case of Algorithm.
 
- ### 2) Big O Notation:
+ ### 2) Big O Notation:-
  
  The Big O notation defines an upper bound of an algorithm, it bounds a function only from above. For example, consider the case of Insertion Sort. It takes linear time in best case and quadratic time in worst case. We can safely say that the time complexity of Insertion sort is O(n^2). Note that O(n^2) also covers linear time.
 If we use Θ notation to represent time complexity of Insertion sort, we have to use two statements for best and worst cases:
