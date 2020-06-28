@@ -80,7 +80,7 @@ Let us consider the same Insertion sort example here. The time complexity of Ins
 
               Ω Notation Also Known as best Case of Algorithm.
 
-### To Learn  Analysis Of Algorithm You can refer this -
+          To Learn  Analysis Of Algorithm You can refer this -
 
 [Analysis of Loops](https://www.geeksforgeeks.org/analysis-of-algorithms-set-4-analysis-of-loops/)
 
