@@ -88,7 +88,7 @@ Let us consider the same Insertion sort example here. The time complexity of Ins
 
 [Time Complexiy Analysis Video Lecture From Prateek Jain - Impetus](https://www.youtube.com/watch?v=eDNXKJRdunk)
 
-# Data Structure:-
+# Data Structure
 
 ## Array:-
 
@@ -99,3 +99,17 @@ For simplicity, we can think of an array a fleet of stairs where on each step is
 
 Remember: “Location of next index depends on the data type we use”.
 
+#### Advantages of using arrays in c/c++:
+<ul>
+ <li>Arrays allow random access of elements. This makes accessing elements by position faster.</li>
+ <li>Arrays have better cache locality that can make a pretty big difference in performance.</li>
+ <li>Use of less line of code as it creates a single array of multiple elements.</li>
+ <li>Traversal through the array becomes easy using a single loop.</li>
+ <li>Sorting becomes easy as it can be accomplished by writing less line of code.</li>
+</ul>
+
+#### Disadvantages of an Array in C/C++:
+<ul>
+<li>Allows a fixed number of elements to be entered which is decided at the time of declaration. Unlike a linked list, an array in C is not dynamic.</li>
+<li>Insertion and deletion of elements can be costly since the elements are needed to be managed in accordance with the new memory allocation.</li>
+</ul>
