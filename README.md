@@ -13,7 +13,8 @@ Data structures are often classified by their characteristics. Possible characte
 <li>Homogeneous or non-homogeneous: This characteristic describes whether all data items in a given repository are of the same type or of various types.</li>
 <li>Static or dynamic: This characteristic describes how the data structures are compiled. Static data structures have fixed sizes, structures and memory locations at compile time. Dynamic data structures have sizes, structures and memory locations that can shrink or expand depending on the use.</li>
 </ul>
-#### Data Structure Hierarchy
+
+### Data Structure Hierarchy
 
 ![](/image/h.png)
 
