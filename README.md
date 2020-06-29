@@ -18,7 +18,7 @@ Data structures are often classified by their characteristics. Possible characte
 
 ![](/image/h.png)
 
-## Time Complexity and Space Complexity:
+## Time Complexity and Space Complexity:-
 
 Sometimes, there are more than one way to solve a problem. We need to learn how to compare the performance different algorithms and choose the best one to solve a particular problem. While analyzing an algorithm, we mostly consider time complexity and space complexity. Time complexity of an algorithm quantifies the amount of time taken by an algorithm to run as a function of the length of the input. Similarly, Space complexity of an algorithm quantifies the amount of space or memory taken by an algorithm to run as a function of the length of the input.
 
