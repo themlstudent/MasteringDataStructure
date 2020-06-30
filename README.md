@@ -5,7 +5,7 @@ A data structure is a specialized format for organizing, processing, retrieving 
 
 In computer programming, a data structure may be selected or designed to store data for the purpose of working on it with various algorithms. Each data structure contains information about the data values, relationships between the data and functions that can be applied to the data.
 
-### Characteristics of data structures:
+### Characteristics of data structures:-
 
 Data structures are often classified by their characteristics. Possible characteristics are:
 <ul>
