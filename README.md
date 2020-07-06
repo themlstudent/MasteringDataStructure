@@ -151,3 +151,5 @@ The pseudo code for this example is as follows :
 The time complexity of Llinear Search algorithm is O(n) because each element in an array is compared only once.
 
 Linear search is rarely used practically because other search algorithms such as the binary search algorithm and hash tables allow significantly faster searching comparison to Linear search.
+
+# Binary search
