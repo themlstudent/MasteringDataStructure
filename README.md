@@ -153,3 +153,13 @@ The time complexity of Llinear Search algorithm is O(n) because each element in 
 Linear search is rarely used practically because other search algorithms such as the binary search algorithm and hash tables allow significantly faster searching comparison to Linear search.
 
 # Binary search
+
+Binary search is the most popular Search algorithm.It is efficient and also one of the most commonly used techniques that is used to solve problems.
+
+If all the names in the world are written down together in order and you want to search for the position of a specific name, binary search will accomplish this in a maximum of  iterations.
+
+Binary search works only on a sorted set of elements. To use binary search on a collection, the collection must first be sorted.
+
+When binary search is used to perform operations on a sorted set, the number of iterations can always be reduced on the basis of the value that is being searched.
+
+![](/images/bs.png)
