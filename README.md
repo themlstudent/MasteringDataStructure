@@ -1,6 +1,6 @@
 # Mastering Data Structure
 ![](/image/D.png)
-## About Data Strcture:
+## About Data Strcture
 A data structure is a specialized format for organizing, processing, retrieving and storing data. While there are several basic and advanced structure types, any data structure is designed to arrange data to suit a specific purpose so that it can be accessed and worked with in appropriate ways.
 
 In computer programming, a data structure may be selected or designed to store data for the purpose of working on it with various algorithms. Each data structure contains information about the data values, relationships between the data and functions that can be applied to the data.
