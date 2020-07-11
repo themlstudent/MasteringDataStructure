@@ -167,4 +167,4 @@ When binary search is used to perform operations on a sorted set, the number of 
 
 # Jump Search 
 
-![](/images/js.png)
+![](/image/js.png)
