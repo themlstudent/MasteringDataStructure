@@ -164,3 +164,7 @@ Binary search works only on a sorted set of elements. To use binary search on a 
 When binary search is used to perform operations on a sorted set, the number of iterations can always be reduced on the basis of the value that is being searched.
 
 ![](/image/bs.png)
+
+# Jump Search 
+
+![](/images/js.png)
