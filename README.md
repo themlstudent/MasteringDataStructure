@@ -155,6 +155,8 @@ Linear search is rarely used practically because other search algorithms such as
 
 # Binary search
 
+![](/image/bs.png)
+
 Binary search is the most popular Search algorithm.It is efficient and also one of the most commonly used techniques that is used to solve problems.
 
 If all the names in the world are written down together in order and you want to search for the position of a specific name, binary search will accomplish this in a maximum of  iterations.
@@ -163,9 +165,11 @@ Binary search works only on a sorted set of elements. To use binary search on a 
 
 When binary search is used to perform operations on a sorted set, the number of iterations can always be reduced on the basis of the value that is being searched.
 
-![](/image/bs.png)
 
 # Jump Search 
+
+
+![](/image/js.png)
 
 Like Binary Search, Jump Search is a searching algorithm for sorted arrays. The basic idea is to check fewer elements (than linear search) by jumping ahead by fixed steps or skipping some elements in place of searching all elements.
 
@@ -181,9 +185,10 @@ Auxiliary Space : O(1)
 <li>Binary Search is better than Jump Search, but Jump search has an advantage that we traverse back only once (Binary Search may require up to O(Log n) jumps, consider a situation where the element to be searched is the smallest element or smaller than the smallest). So in a system where binary search is costly, we use Jump Search.</li>
  </ul>
  
-![](/image/js.png)
 
 # Selection Sort
+
+![](/image/ss.png)
 
 The selection sort algorithm sorts an array by repeatedly finding the minimum element (considering ascending order) from unsorted part and putting it at the beginning. The algorithm maintains two subarrays in a given array.
 <ul>
