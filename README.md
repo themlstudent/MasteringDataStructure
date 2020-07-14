@@ -223,3 +223,26 @@ Stable: Yes
 
 Due to its simplicity, bubble sort is often used to introduce the concept of a sorting algorithm.
 In computer graphics it is popular for its capability to detect a very small error (like swap of just two elements) in almost-sorted arrays and fix it with just linear complexity (2n). For example, it is used in a polygon filling algorithm, where bounding lines are sorted by their x coordinate at a specific scan line (a line parallel to x axis) and with incrementing y their order changes (two elements are swapped) only at intersections of two lines.(source [Wikipedia](http://en.wikipedia.org/wiki/Bubble_sort#In_practice))
+
+# Insertion Sort 
+
+![](/image/in.png)
+
+Insertion sort is a simple sorting algorithm that works the way we sort playing cards in our hands.
+
+Time Complexity: O(n*2)
+
+Auxiliary Space: O(1)
+
+Boundary Cases: Insertion sort takes maximum time to sort if elements are sorted in reverse order. And it takes minimum time (Order of n) when elements are already sorted.
+
+Algorithmic Paradigm: Incremental Approach
+
+Sorting In Place: Yes
+
+Stable: Yes
+
+Online: Yes
+
+Uses: Insertion sort is used when number of elements is small. It can also be useful when input array is almost sorted, only few elements are misplaced in complete big array.
+
