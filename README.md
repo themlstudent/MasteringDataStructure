@@ -152,17 +152,6 @@ Linear search is used on a collections of items. It relies on the technique of t
 
 For example, consider an array of integers of size . You should find and print the position of all the elements with value . Here, the linear search is based on the idea of matching each element from the beginning of the list to the end of the list with the integer , and then printing the position of the element if the condition is True.
 
-Implementation:
-
-The pseudo code for this example is as follows :
-
-                     for(start to end of array)
-                     {
-                           if (current_element equals to 5)  
-                        {
-                                  print (current_index);
-                                }
-                              }
 The time complexity of Llinear Search algorithm is O(n) because each element in an array is compared only once.
 
 Linear search is rarely used practically because other search algorithms such as the binary search algorithm and hash tables allow significantly faster searching comparison to Linear search.
