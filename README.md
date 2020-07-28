@@ -129,6 +129,8 @@ The above image can be looked as a top-level view of a staircase where you are a
 <li> n (n-based indexing): The base index of an array can be freely chosen. Usually programming languages allowing n-based indexing also allow negative index values and other scalar data types like enumerations, or characters may be used as an array index. </li>
 </ul>
 
+![](/image/mr.png)
+
 #### Advantages of using arrays in c/c++:
 <ul>
  <li>Arrays allow random access of elements. This makes accessing elements by position faster.</li>
