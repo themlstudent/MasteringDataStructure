@@ -146,6 +146,17 @@ The above image can be looked as a top-level view of a staircase where you are a
 <li>Insertion and deletion of elements can be costly since the elements are needed to be managed in accordance with the new memory allocation.</li>
 </ul>
 
+####  Basic Operations
+
+Following are the basic operations supported by an array.
+<ul>
+ <li>Traverse − print all the array elements one by one.</li>
+ <li>Insertion − Adds an element at the given index.</li>
+ <li>Deletion − Deletes an element at the given index.</li>
+ <li>Search − Searches an element using the given index or by the value.</li>
+ <li>Update − Updates an element at the given index.</li>
+</ul>
+
 ### Linear Search 
 ![](/image/LS.png)
 Linear search is used on a collections of items. It relies on the technique of traversing a list from start to end by exploring properties of all the elements that are found on the way.
