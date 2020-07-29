@@ -155,9 +155,18 @@ Following are the basic operations supported by an array.
  <li>Traverse − print all the array elements one by one.</li>
  <li>Insertion − Adds an element at the given index.</li>
  <li>Deletion − Deletes an element at the given index.</li>
- <li>Search − Searches an element using the given index or by the value.</li>
  <li>Update − Updates an element at the given index.</li>
 </ul>
+
+### Traverse Operation
+
+This operation is to traverse through the elements of an array.
+
+### Insertion Operation
+
+Insert operation is to insert one or more data elements into an array. Based on the requirement, a new element can be added at the beginning, end, or any given index of array.
+
+
 
 ## Sorting and Searching In Array:
 
