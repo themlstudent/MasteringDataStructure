@@ -166,7 +166,13 @@ This operation is to traverse through the elements of an array.
 
 Insert operation is to insert one or more data elements into an array. Based on the requirement, a new element can be added at the beginning, end, or any given index of array.
 
+### Deletion Operation
 
+Deletion refers to removing an existing element from the array and re-organizing all elements of an array.
+
+### Update Operation
+
+Update operation refers to updating an existing element from the array at a given index.
 
 ## Sorting and Searching In Array:
 
