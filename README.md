@@ -281,3 +281,4 @@ Uses: Insertion sort is used when number of elements is small. It can also be us
 
 ## Pointer
 
+Pointers in C++ are easy and fun to learn. Some C++ programming tasks are performed more easily with pointers, and other tasks, such as dynamic memory allocation, cannot be performed without using pointers. So it becomes necessary to learn pointers to become a perfect C++ programmer. 
