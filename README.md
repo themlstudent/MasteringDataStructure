@@ -1,4 +1,4 @@
-# Mastering Data Structure:-
+# Mastering Data Structure:
 ![](/image/D.png)
 ## About Data Strcture:-
 
