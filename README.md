@@ -111,6 +111,25 @@ We can have three cases to analyze an algorithm:
 2.Average Case
 3.Best Case
 
+Below is the algorithm for performing linear search:
+
+                // Linearly search x in arr[]. 
+              // If x is present then return the index,
+              // otherwise return -1
+                 search(int arr[], int n, int x)
+                 {
+                       int i;
+
+                     for (i=0; i <n;i++)    
+                     {
+                         if (arr[i] == x)
+                          return true;
+                         }
+
+                           return false;
+                               }
+
+
  ### To Learn  Analysis Of Algorithm You can refer this :-
 
 [Analysis of Loops](https://www.geeksforgeeks.org/analysis-of-algorithms-set-4-analysis-of-loops/)
