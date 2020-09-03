@@ -100,6 +100,17 @@ Let us consider the same Insertion sort example here. The time complexity of Ins
 
 ###  Worst, Average and Best Case Time Complexities 
 
+It is important to analyze an algorithm after writing it to find it's efficiency in terms of time and space in order to improve it if possible.
+
+When it comes to analyzing algorithms, the asymptotic analysis seems to be the best way possible to do so. This is because asymptotic analysis analyzes algorithms in terms of the input size. It checks how are the time and space growing in terms of the input size.
+
+In this post, we will take an example of Linear Search and analyze it using Asymptotic analysis.
+
+We can have three cases to analyze an algorithm:
+1.Worst Case
+2.Average Case
+3.Best Case
+
  ### To Learn  Analysis Of Algorithm You can refer this :-
 
 [Analysis of Loops](https://www.geeksforgeeks.org/analysis-of-algorithms-set-4-analysis-of-loops/)
