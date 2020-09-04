@@ -166,7 +166,7 @@ The Best Case analysis is bogus. Guaranteeing a lower bound on an algorithm does
 
 ### Data Structure Hierarchy
 
-![](/image/h.png
+![](/image/h.png)
 
 ## Array:-
 
