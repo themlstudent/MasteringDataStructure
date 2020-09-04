@@ -19,7 +19,7 @@ Data structures are often classified by their characteristics. Possible characte
 
 ![](/image/h.png)
 
-## Time Complexity and Space Complexity:-
+## Time Complexity 
 
 Sometimes, there are more than one way to solve a problem. We need to learn how to compare the performance different algorithms and choose the best one to solve a particular problem. While analyzing an algorithm, we mostly consider time complexity and space complexity. Time complexity of an algorithm quantifies the amount of time taken by an algorithm to run as a function of the length of the input. Similarly, Space complexity of an algorithm quantifies the amount of space or memory taken by an algorithm to run as a function of the length of the input.
 
@@ -59,10 +59,11 @@ Dropping lower order terms is always fine because there will always be a n0 afte
 
 For a given function g(n), we denote Θ(g(n)) is following set of functions.
 
-![](/images/AlgoAnalysis1.png)
+![](/image/AlgoAnalysis1.png)
 
-Θ(g(n)) = {f(n): there exist positive constants c1, c2 and n0 such 
-                 that 0 <= c1*g(n) <= f(n) <= c2*g(n) for all n >= n0}
+Θ(g(n)) = {f(n): there exist positive constants c1, c2 and n0 such
+
+ that 0 <= c1*g(n) <= f(n) <= c2*g(n) for all n >= n0}
                  
 The above definition means, if f(n) is theta of g(n), then the value f(n) is always between c1*g(n) and c2*g(n) for large values of n (n >= n0). The definition of theta also requires that f(n) must be non-negative for values of n greater than n0.
 
@@ -77,9 +78,11 @@ If we use Θ notation to represent time complexity of Insertion sort, we have to
 
 The Big O notation is useful when we only have upper bound on time complexity of an algorithm. Many times we easily find an upper bound by simply looking at the algorithm.
 
+![](/image/AlgoAnalysis2.png)
+
 O(g(n)) = { f(n): there exist positive constants c and 
-                  n0 such that 0 <= f(n) <= c*g(n) for 
-                  all n >= n0}
+
+ n0 such that 0 <= f(n) <= c*g(n) for all n >= n0}
                   
                Big O Notation  Also Known as Wrost Case Of Algorithm.
 
@@ -92,9 +95,11 @@ Just as Big O notation provides an asymptotic upper bound on a function, Ω nota
 
 For a given function g(n), we denote by Ω(g(n)) the set of functions.
 
+![](/image/AlgoAnalysis3.png)
+
 Ω (g(n)) = {f(n): there exist positive constants c and
-                  n0 such that 0 <= c*g(n) <= f(n) for
-                  all n >= n0}.
+
+n0 such that 0 <= c*g(n) <= f(n) for all n >= n0}.
                   
 Let us consider the same Insertion sort example here. The time complexity of Insertion Sort can be written as Ω(n), but it is not a very useful information about insertion sort, as we are generally interested in worst case and sometimes in average case.
 
