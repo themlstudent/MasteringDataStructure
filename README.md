@@ -59,6 +59,8 @@ Dropping lower order terms is always fine because there will always be a n0 afte
 
 For a given function g(n), we denote Θ(g(n)) is following set of functions.
 
+![](/images/AlgoAnalysis1.png)
+
 Θ(g(n)) = {f(n): there exist positive constants c1, c2 and n0 such 
                  that 0 <= c1*g(n) <= f(n) <= c2*g(n) for all n >= n0}
                  
