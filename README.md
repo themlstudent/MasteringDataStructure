@@ -15,10 +15,6 @@ Data structures are often classified by their characteristics. Possible characte
 <li>Static or dynamic: This characteristic describes how the data structures are compiled. Static data structures have fixed sizes, structures and memory locations at compile time. Dynamic data structures have sizes, structures and memory locations that can shrink or expand depending on the use.</li>
 </ul>
 
-### Data Structure Hierarchy
-
-![](/image/h.png)
-
 ## Time Complexity 
 
 Sometimes, there are more than one way to solve a problem. We need to learn how to compare the performance different algorithms and choose the best one to solve a particular problem. While analyzing an algorithm, we mostly consider time complexity and space complexity. Time complexity of an algorithm quantifies the amount of time taken by an algorithm to run as a function of the length of the input. Similarly, Space complexity of an algorithm quantifies the amount of space or memory taken by an algorithm to run as a function of the length of the input.
@@ -167,6 +163,10 @@ The Best Case analysis is bogus. Guaranteeing a lower bound on an algorithm does
 [Time Complexiy Analysis Video Lecture From Prateek Jain - Impetus](https://www.youtube.com/watch?v=eDNXKJRdunk)
 
 # Data Structure
+
+### Data Structure Hierarchy
+
+![](/image/h.png
 
 ## Array:-
 
