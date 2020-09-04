@@ -168,7 +168,7 @@ The Best Case analysis is bogus. Guaranteeing a lower bound on an algorithm does
 
 ![](/image/h.png)
 
-## Array:-
+# Array:-
 
 #### Introduction to Arrays
 An array is collection of items stored at contiguous memory locations. The idea is to store multiple items of same type together. This makes it easier to calculate the position of each element by simply adding an offset to a base value, i.e., the memory location of the first element of the array (generally denoted by the name of the array).
