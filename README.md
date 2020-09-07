@@ -172,15 +172,15 @@ The Best Case analysis is bogus. Guaranteeing a lower bound on an algorithm does
 
  These mathematical topics that will come in handy in solving programming problems. Below mentioned are the topics that we will be learning about:
  
- 1. Finding the number of digits in a number.
- 2.  Arithmetic and Geometric Progressions.
-Quadratic Equations.
-Mean and Median.
-Prime Numbers.
-LCM and HCF
-Factorials
-Permutations and Combinations
-Modular Arithmetic
+1. Finding the number of digits in a number.
+2. Arithmetic and Geometric Progressions.
+3. Quadratic Equations.
+4. Mean and Median.
+5. Prime Numbers.
+6. LCM and HCF
+7. Factorials
+8. Permutations and Combinations
+9. Modular Arithmetic
 
 # Array:-
 
