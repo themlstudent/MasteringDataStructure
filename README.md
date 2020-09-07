@@ -182,6 +182,10 @@ These mathematical topics that will come in handy in solving programming problem
 8. Permutations and Combinations
 9. Modular Arithmetic
 
+### Problems that you can Practice to learn and understand in more better way: :
+
+1. [Program to count digits in an integer](https://www.geeksforgeeks.org/program-count-digits-integer-3-different-methods/)
+
 # Array:-
 
 #### Introduction to Arrays
