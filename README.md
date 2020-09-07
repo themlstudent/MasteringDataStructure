@@ -170,7 +170,7 @@ The Best Case analysis is bogus. Guaranteeing a lower bound on an algorithm does
 
 # Mathematical Topics : 
 
- These mathematical topics that will come in handy in solving programming problems. Below mentioned are the topics that we will be learning about:
+These mathematical topics that will come in handy in solving programming problems. Below mentioned are the topics that we will be help you lot to solve the Problem in more better way :
  
 1. Finding the number of digits in a number.
 2. Arithmetic and Geometric Progressions.
