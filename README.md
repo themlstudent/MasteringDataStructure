@@ -168,6 +168,11 @@ The Best Case analysis is bogus. Guaranteeing a lower bound on an algorithm does
 
 ![](/image/h.png)
 
+# Mathematical Topics : 
+
+ These mathematical topics that will come in handy in solving programming problems. Below mentioned are the topics that we will be learning about:
+
+
 # Array:-
 
 #### Introduction to Arrays
