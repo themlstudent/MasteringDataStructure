@@ -185,6 +185,8 @@ These mathematical topics that will come in handy in solving programming problem
 ### Problems that you can Practice to learn and understand in more better way: :
 
 1. [Program to count digits in an integer](https://www.geeksforgeeks.org/program-count-digits-integer-3-different-methods/)
+2. [Check if a number is Palindrome](https://www.geeksforgeeks.org/check-if-a-number-is-palindrome/)
+3. [Program for factorial of a number](https://www.geeksforgeeks.org/program-for-factorial-of-a-number/)
 
 # Array:-
 
