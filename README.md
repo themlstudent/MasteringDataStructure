@@ -189,6 +189,7 @@ These mathematical topics that will come in handy in solving programming problem
 3. [Program for factorial of a number](https://www.geeksforgeeks.org/program-for-factorial-of-a-number/)
 4. [Count trailing zeroes in factorial of a number](https://www.geeksforgeeks.org/count-trailing-zeroes-factorial-number/?ref=lbp)
 5. [Program to find GCD or HCF of two numbers](https://www.geeksforgeeks.org/c-program-find-gcd-hcf-two-numbers/#:~:text=GCD%20(Greatest%20Common%20Divisor)%20or,98%20and%2056%20is%2014.)
+6. [Program to find LCM of two numbers](https://www.geeksforgeeks.org/program-to-find-lcm-of-two-numbers/?ref=rp)
 # Array:-
 
 #### Introduction to Arrays
