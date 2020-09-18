@@ -2,9 +2,11 @@
 
 1. [Finding number of Digits in a Number](geeksforgeeks.org/program-count-digits-integer-3-different-methods/)
 
+# Company Tags Pproblem :
+1.[Armstrong Numbers](https://practice.geeksforgeeks.org/problems/armstrong-numbers2727/1)
+2.[Maximum money](https://practice.geeksforgeeks.org/problems/maximum-money2855/1)
 
 # Problems that you can Practice to learn and understand in more better way: :
-
 
 1. [Program to count digits in an integer](https://www.geeksforgeeks.org/program-count-digits-integer-3-different-methods/)
 2. [Check if a number is Palindrome](https://www.geeksforgeeks.org/check-if-a-number-is-palindrome/)
