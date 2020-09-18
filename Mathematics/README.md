@@ -2,7 +2,7 @@
 
 1. [Finding number of Digits in a Number](geeksforgeeks.org/program-count-digits-integer-3-different-methods/)
 
-# Company Tags Pproblem :
+# Company Tags Problem :
 1.[Armstrong Numbers](https://practice.geeksforgeeks.org/problems/armstrong-numbers2727/1)
 2.[Maximum money](https://practice.geeksforgeeks.org/problems/maximum-money2855/1)
 
