@@ -1,3 +1,8 @@
+# Reading Blogs :
+
+1. [Finding number of Digits in a Number](geeksforgeeks.org/program-count-digits-integer-3-different-methods/)
+
+
 # Problems that you can Practice to learn and understand in more better way: :
 
 
