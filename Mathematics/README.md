@@ -1,6 +1,7 @@
 # Company Tags Problem :
 
 1.[Armstrong Numbers](https://practice.geeksforgeeks.org/problems/armstrong-numbers2727/1)
+
 2.[Maximum money](https://practice.geeksforgeeks.org/problems/maximum-money2855/1)
 
 
