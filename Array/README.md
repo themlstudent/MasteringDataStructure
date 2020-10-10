@@ -31,3 +31,35 @@ The above image can be looked as a top-level view of a staircase where you are a
  <li>Traversal through the array becomes easy using a single loop.</li>
  <li>Sorting becomes easy as it can be accomplished by writing less line of code.</li>
 </ul>
+
+#### Disadvantages of an Array in C/C++:
+<ul>
+<li>Allows a fixed number of elements to be entered which is decided at the time of declaration. Unlike a linked list, an array in C is not dynamic.</li>
+<li>Insertion and deletion of elements can be costly since the elements are needed to be managed in accordance with the new memory allocation.</li>
+</ul>
+
+## Basic Operations
+
+Following are the basic operations supported by an array.
+<ul>
+ <li>Traverse − print all the array elements one by one.</li>
+ <li>Insertion − Adds an element at the given index.</li>
+ <li>Deletion − Deletes an element at the given index.</li>
+ <li>Update − Updates an element at the given index.</li>
+</ul>
+
+### Traverse Operation
+
+This operation is to traverse through the elements of an array.
+
+### Insertion Operation
+
+Insert operation is to insert one or more data elements into an array. Based on the requirement, a new element can be added at the beginning, end, or any given index of array.
+
+### Deletion Operation
+
+Deletion refers to removing an existing element from the array and re-organizing all elements of an array.
+
+### Update Operation
+
+Update operation refers to updating an existing element from the array at a given index.
