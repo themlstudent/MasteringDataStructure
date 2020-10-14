@@ -51,6 +51,24 @@ Following are the basic operations supported by an array.
 
 ### Searching 
 
+Searching an element in an array means to check if a given element is present in an array or not. This can be done by accessing elements of the array one by one starting from the first element and checking if any of the element matches with the given element.
+
+We can use loops to perform the above operation of array traversal and access the elements using indexes.
+
+Suppose the array is named arr[] with size N and the element to be searched is referred as key. Below is the algorithm to perform to the search operation in the given array.
+
+         for(i = 0; i < N; i++)
+      {
+    if(arr[i] == key)
+           { 
+        print "Element Found";
+            }
+    else
+        {
+        print "Element not Found";
+         }
+     }
+
 ### Traverse Operation
 
 This operation is to traverse through the elements of an array.
