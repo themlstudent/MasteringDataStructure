@@ -68,7 +68,8 @@ Suppose the array is named arr[] with size N and the element to be searched is r
         print "Element not Found";
          }
      }
-     
+
+
 Time Complexity of this search operation will be O(N) in the worst case as we are checking every element of the array from 1st to last, so the number of operations is N.
 
 ### Traverse Operation
