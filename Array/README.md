@@ -42,11 +42,14 @@ The above image can be looked as a top-level view of a staircase where you are a
 
 Following are the basic operations supported by an array.
 <ul>
+ <li> Searching- Finding the given element in array.</li>
  <li>Traverse − print all the array elements one by one.</li>
  <li>Insertion − Adds an element at the given index.</li>
  <li>Deletion − Deletes an element at the given index.</li>
  <li>Update − Updates an element at the given index.</li>
 </ul>
+
+### Searching 
 
 ### Traverse Operation
 
