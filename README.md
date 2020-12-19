@@ -191,16 +191,6 @@ These mathematical topics that will come in handy in solving programming problem
 #### Introduction to Arrays
 An array is collection of items stored at contiguous memory locations. The idea is to store multiple items of same type together. This makes it easier to calculate the position of each element by simply adding an offset to a base value, i.e., the memory location of the first element of the array (generally denoted by the name of the array).
  
-
-
-
-
-#### Disadvantages of an Array in C/C++:
-<ul>
-<li>Allows a fixed number of elements to be entered which is decided at the time of declaration. Unlike a linked list, an array in C is not dynamic.</li>
-<li>Insertion and deletion of elements can be costly since the elements are needed to be managed in accordance with the new memory allocation.</li>
-</ul>
-
 ## Basic Operations
 
 Following are the basic operations supported by an array.
