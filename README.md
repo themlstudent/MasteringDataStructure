@@ -191,14 +191,7 @@ These mathematical topics that will come in handy in solving programming problem
 #### Introduction to Arrays
 An array is collection of items stored at contiguous memory locations. The idea is to store multiple items of same type together. This makes it easier to calculate the position of each element by simply adding an offset to a base value, i.e., the memory location of the first element of the array (generally denoted by the name of the array).
  
-#### Types of indexing in array:
 
-<ul>
- 
-<li> 0 (zero-based indexing): The first element of the array is indexed by subscript of 0 </li>
-<li> 1 (one-based indexing): The second element of the array is indexed by subscript of 1 </li>
-<li> n (n-based indexing): The base index of an array can be freely chosen. Usually programming languages allowing n-based indexing also allow negative index values and other scalar data types like enumerations, or characters may be used as an array index. </li>
-</ul>
 
 ![](/image/mr2.png)
 
