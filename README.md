@@ -193,16 +193,7 @@ An array is collection of items stored at contiguous memory locations. The idea 
  
 
 
-![](/image/mr2.png)
 
-#### Advantages of using arrays in c/c++:
-<ul>
- <li>Arrays allow random access of elements. This makes accessing elements by position faster.</li>
- <li>Arrays have better cache locality that can make a pretty big difference in performance.</li>
- <li>Use of less line of code as it creates a single array of multiple elements.</li>
- <li>Traversal through the array becomes easy using a single loop.</li>
- <li>Sorting becomes easy as it can be accomplished by writing less line of code.</li>
-</ul>
 
 #### Disadvantages of an Array in C/C++:
 <ul>
