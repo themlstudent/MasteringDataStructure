@@ -191,15 +191,6 @@ These mathematical topics that will come in handy in solving programming problem
 #### Introduction to Arrays
 An array is collection of items stored at contiguous memory locations. The idea is to store multiple items of same type together. This makes it easier to calculate the position of each element by simply adding an offset to a base value, i.e., the memory location of the first element of the array (generally denoted by the name of the array).
  
-## Basic Operations
-
-Following are the basic operations supported by an array.
-<ul>
- <li>Traverse − print all the array elements one by one.</li>
- <li>Insertion − Adds an element at the given index.</li>
- <li>Deletion − Deletes an element at the given index.</li>
- <li>Update − Updates an element at the given index.</li>
-</ul>
 
 ### Traverse Operation
 
