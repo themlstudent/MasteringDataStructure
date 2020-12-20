@@ -192,9 +192,7 @@ These mathematical topics that will come in handy in solving programming problem
 An array is collection of items stored at contiguous memory locations. The idea is to store multiple items of same type together. This makes it easier to calculate the position of each element by simply adding an offset to a base value, i.e., the memory location of the first element of the array (generally denoted by the name of the array).
 
 [Array Complete](https://github.com/themlstudent/MasteringDataStructure/tree/master/Array)
-### Update Operation
 
-Update operation refers to updating an existing element from the array at a given index.
 
 ## Sorting and Searching In Array:
 
