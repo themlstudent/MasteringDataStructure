@@ -190,10 +190,6 @@ These mathematical topics that will come in handy in solving programming problem
 
 #### Introduction to Arrays
 An array is collection of items stored at contiguous memory locations. The idea is to store multiple items of same type together. This makes it easier to calculate the position of each element by simply adding an offset to a base value, i.e., the memory location of the first element of the array (generally denoted by the name of the array).
- 
-### Deletion Operation
-
-Deletion refers to removing an existing element from the array and re-organizing all elements of an array.
 
 ### Update Operation
 
