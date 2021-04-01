@@ -1,13 +1,13 @@
-#include<iostram>
+#include<iostream>
 using namespace std;
 int fact(int n)
 {
 	// base case
-	int (n==0)
+	if (n==0)
 	{
 		return 1;
 	}
-	return n*fact(n-1)
+	return n*fact(n-1);
 }
 int main()
 {
