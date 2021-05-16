@@ -1,4 +1,4 @@
 # Tree 
 
-![](/images/tree.Png)
+![](/images/binary.png)
 
