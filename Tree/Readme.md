@@ -1,2 +1,2 @@
-![](/images/tree.png)
-![](/images/binary.png)
+![](/image/tree.png)
+![](/image/binary.png)
