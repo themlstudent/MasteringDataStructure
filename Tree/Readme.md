@@ -1,4 +1,2 @@
 ![](https://www.cdn.geeksforgeeks.org/wp-content/uploads/tree.jpg)
 
-
-![](/image/binary.png)
