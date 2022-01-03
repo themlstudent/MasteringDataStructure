@@ -1,4 +1,4 @@
-# Company Tags Problem ::::::
+# Company Tags Problem :::::
 
 1.[Armstrong Numbers](https://practice.geeksforgeeks.org/problems/armstrong-numbers2727/1)
 
